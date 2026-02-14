@@ -1,0 +1,25 @@
+
+
+.link-active{
+    color: #FF6600;
+    font-weight: bold;
+    border-bottom: 2px solid #FF6600;
+
+  }
+
+.mobilemenu{
+    display: none;
+}
+
+
+@media screen and (max-width: 406px) {
+    .mobileFooterResponsive{
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+.react-player__preview{
+    border-radius: 2.4rem;
+}
