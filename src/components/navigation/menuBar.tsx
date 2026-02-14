@@ -2,7 +2,6 @@ import { Link, NavLink } from "react-router";
 import Images from "../../constants/images.constants";
 import { IoMenu } from "react-icons/io5";
 import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle, SheetTrigger } from "../ui/sheet";
-import { MoveRight } from "lucide-react";
 
 export const MENUITEMS = [
     {
