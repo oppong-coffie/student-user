@@ -17,7 +17,7 @@ const Home = () => {
         </div>
 
         <div className="text-left md:w-[45%] my-8">
-          <h2 className='text-5xl font-extrabold my-16 text-justify'>A smarter way for students to  <span className='text-5xl font-extrabold text-primary'>save</span> and spend productively.</h2>
+          <h2 className='text-4xl font-extrabold my-16 text-justify '>Transforming how <span className='text-4xl mt-8 font-extrabold text-primary'>students save</span> for the future and manage<span className='text-4xl mt-8 font-extrabold text-primary'> everyday spending. </span></h2>
           <p className='my-16 text-justify'>Empower your academic journey with Student — the all-in-one app designed to help you manage, save, and spend money more productively. Access exclusive partner discounts, track your finances, and take control of your spending like never before. Smart money. Smart student life.</p>
           <div className="flex my-16 flex-wrap justify-center md:justify-start  items-center gap-10 mt-[6vh]">
                 <img data-aos="zoom-in-up" src={Images.GooglePlay} alt="" />
