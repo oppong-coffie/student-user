@@ -1,5 +1,6 @@
 import StudentLogo from '@/assets/AppLogo.png'
 import profile from "@/assets/profile.png"
+import me from "@/assets/me2.png"
 import GooglePlay from "@/assets/GooglePlayStore.png"
 import IosStore from "@/assets/IOSstore.png"
 import HeroPhone from "@/assets/HeroPhone.png"
@@ -31,9 +32,10 @@ import Feature_StackedPhone from "@/assets/Feature_StackedPhone.png"
 import Feature_SplitPhone from "@/assets/Feature_SplitPhone.png"
 import Feature_KeepingFinancialOperations from "@/assets/Feature_KeepingFinancialOperations.jpg"
 
-const Images ={
+const Images = {
     StudentLogo,
     profile,
+    me,
     GooglePlay,
     IosStore,
     HeroPhone,

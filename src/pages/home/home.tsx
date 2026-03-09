@@ -223,6 +223,7 @@ const Home = () => {
               </div>
           </div>
       </section>
+      
     </main>
   )
 }

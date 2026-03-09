@@ -59,6 +59,12 @@ const HowItWorks = () => {
       <section className='flex items-center justify-center min-h-[70vh]'>
         <img src={Images.LowerPhone} className='h-[60vh]' alt="" />
       </section>
+<div className="flex items-center justify-center">
+              <div className="flex my-6 flex-wrap justify-center md:justify-start  items-center gap-10 mt-[6vh]">
+                        <img data-aos="zoom-in-up" src={Images.GooglePlay} alt="" />
+                        <img data-aos="zoom-in-up" data-a src={Images.IosStore} alt="" />
+                    </div>
+</div>
     </main>
   )
 }

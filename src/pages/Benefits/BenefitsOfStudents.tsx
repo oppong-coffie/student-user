@@ -118,7 +118,7 @@ const BenefitsOfStudents = () => {
               </div>
           </section>
 
-           <section className='py-[19vh]'>
+           {/* <section className='py-[19vh]'>
           <div className="my-[15vh] flex flex-wrap gap-10 bg-[#3C312B] min-h-[70vh]">
               <div className="min-h-[50vh] w-full md:w-[30%] bg-center bg-no-repeat bg-cover" style={{backgroundImage:`url(${Images.Home_personPhone})`}}></div>
               <div className="md:w-[65%] px-6 md:px-2 py-10">
@@ -159,7 +159,7 @@ const BenefitsOfStudents = () => {
                 </div>
               </div>
           </div>
-      </section>
+      </section> */}
    </main>
   )
 }
